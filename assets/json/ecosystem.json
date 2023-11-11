@@ -788,19 +788,20 @@
   },
   {
     "id": "aea049ab-c1c0-4d2c-a755-931f6fd74399",
-    "icon": "nRide.png",
-    "backgroundImage": "nRide-header.jpg",
-    "coverImage": "nRide-header.jpg",
+    "icon": "nride.jpg",
+    "backgroundImage": "background_nride.jpg",
+    "coverImage": "cover_nride.jpg",
     "appPreviews": [
-      "app-previews/nride/select_destination.jpeg",
-      "app-previews/nride/received_request.jpeg",
-      "app-previews/nride/make_proposal.jpeg",
-      "app-previews/nride/accepted_proposal.jpeg",
-      "app-previews/nride/confirmed_opened.jpeg",
-      "app-previews/nride/confirmed_3.jpeg",
-      "app-previews/nride/complete_withdraw.jpeg",
-      "app-previews/nride/wallet.jpeg"
+      "app-previews/nride/01.jpg",
+      "app-previews/nride/02.jpg",
+      "app-previews/nride/03.jpg",
+      "app-previews/nride/04.jpg",
+      "app-previews/nride/05.jpg"
     ],
+    "appLinks": {
+      "android": "https://play.google.com/store/apps/details?id=com.nride.rider_app",
+      "ios": "https://apps.apple.com/us/app/nride-rider/id6468989510?platform=iphone"
+    },
     "title": "nRide",
     "text": "A Peer-to-Peer Ride Hailing Protocol",
     "category": "Consumer",
