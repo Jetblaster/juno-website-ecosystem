@@ -500,15 +500,22 @@
   },
   {
     "id": "6b8aaa80-95a9-4f4b-a159-706c32054f45",
-    "icon": "komple.png",
-    "title": "Komple Marketplace",
-    "text": "No code, community-centric NFT marketplace builder",
-    "category": "Soon",
+    "icon": "komple.svg",
+    "backgroundImage": "background_komple.jpg",
+    "coverImage": "cover_komple.jpg",
+    "appPreviews": [
+      "app-previews/komple/1.jpg",
+      "app-previews/komple/2.jpg",
+      "app-previews/komple/3.jpg"
+    ],
+    "title": "Komple Framework",
+    "text": "Smart contract framework for building NFT based applications.",
+    "category": "NFT",
     "website": "https://komple.io",
     "github": "https://github.com/KompleTeam",
     "discord": "https://discord.gg/UkbmeFCUSG",
     "twitter": "https://twitter.com/KompleSocial",
-    "telegram": "https://t.me/komple_marketplace"
+    "telegram": ""
   },
   {
     "id": "8968582a-4126-4a7b-a679-ffa91043654d",
